@@ -15,6 +15,7 @@ detalla en el programa PeopleCounter.py las diferentes partes del programa para 
 
 Importante: Se debe descomprimir la carpeta Test Files.zip para que se redireccione de la mejor manera la ubicacion que 
 necesita nuestro programa PeopleCounter.py
+Nota: En las carpeta evidencias se puede ver las ejecuciones con cada video de prueba, en la cual las hemos realizado con exito!!
 
 Muchas gracias a todos.
 Exitos y Dios nos bendiga!
